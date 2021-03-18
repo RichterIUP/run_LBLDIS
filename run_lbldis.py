@@ -12,16 +12,6 @@ import numpy             as np
 import netCDF4           as nc
 import scipy.signal      as sig
 import pandas            as pd
-#import inp
-
-#sys.path.append(os.path.join(inp.PATH_TO_TCWRET, "src"))
-#import physics
-#import numerical
-
-#sys.path.append(inp.PATH_TO_RUN_LBLRTM)
-#import run_LBLRTM
-
-#LBLDIR = ''
 
 def conv(wavenumber, radiance, atmospheric_param, resolution):
     '''
@@ -273,22 +263,46 @@ def run_lbldis(atmospheric_param, lblrtm, ssp, wn, atm_grid, path_to_run_lblrtm,
     return radiance, lbldir
 
 if __name__ == '__main__':
-    atmospheric_param = np.array([0.0, 7.0])
-    ssp = ['/home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/ssp_database/ssp_db.mie_wat.gamma_sigma_0p100']
-    wn = [400.0, 800.0]
-    atm_grid = pd.read_csv("atm_grid.csv")
-    path_to_run_lblrtm = "/home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLRTM"
-    path_to_lblrtm = "/home/phi.richter/radiative_transfer/lblrtm"
-    path_to_lbldis = "/home/phi.richter/radiative_transfer/lbldis"
-    path_wdir = "."
-    path_windows = "mw"
-    sza = -1.0
-    cloud_grid = [100.0]
-    scatter = True
-    kurucz = "/home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/solar/solar.kurucz.rad.1cm-1binned.full_disk.asc"
-    sfc_em = [[500., 0.98], [1000, 0.98], [1500., 0.98]]
-    log_re = False
-    lbldir = "."
-    resolution = 0.3
+    with open("input.dat", "r") as f:
+        num_ssp = int(f.readline())
+        atmospheric_param = []
+        ssp = []
+        for i in range(num_ssp):
+            atmospheric_param.append(np.array([float(f.readline()), float(f.readline())]))
+        for i in range(num_ssp):
+            ssp.append(f.readline().rstrip())
+            
+        wn = [float(f.readline()), float(f.readline())]
+        path_to_run_lblrtm = f.readline().rstrip()
+        path_to_lblrtm = f.readline().rstrip()
+        path_to_lbldis = f.readline().rstrip()
+        path_wdir = f.readline().rstrip()
+        path_windows = f.readline().rstrip()
+        sza = float(f.readline())
+        num_cld = int(f.readline())
+        cloud_grid = []
+        for i in range(num_cld):
+            cloud_grid.append(float(f.readline()))
+        scatter = bool(int(f.readline()))
+        kurucz = f.readline().rstrip()
+        num_emis = int(f.readline())
+        sfc_em = []
+        for i in range(num_emis):
+            sfc_em.append([float(f.readline()), float(f.readline())])
+        log_re = bool(int(f.readline()))
+        lbldir = f.readline().rstrip()
+        resolution = float(f.readline())
+        h2o_self = int(f.readline())
+        h2o_foreign = int(f.readline())
+        co2_cont = int(f.readline())
+        o3_cont = int(f.readline())
+        o2_cont = int(f.readline())
+        n2_cont = int(f.readline())
+        rayleigh = int(f.readline())
 
-    run_lbldis(np.array([atmospheric_param]), True, ssp, wn, atm_grid, path_to_run_lblrtm, path_to_lblrtm, path_to_lbldis, path_wdir, path_windows, sza, cloud_grid, scatter, kurucz, sfc_em, log_re, lbldir, resolution, t_surf=-1, h2o_self=1, h2o_foreign=1, co2_cont=1, o3_cont=1, o2_cont=1, n2_cont=1, rayleigh=1)
+    atm_grid = pd.read_csv("atm_grid.csv")
+
+    if not os.path.exists(path_wdir): os.mkdir(path_wdir)
+    if not os.path.exists(lbldir): os.mkdir(lbldir)
+
+    run_lbldis(np.array([atmospheric_param]), True, ssp, wn, atm_grid, path_to_run_lblrtm, path_to_lblrtm, path_to_lbldis, path_wdir, path_windows, sza, cloud_grid, scatter, kurucz, sfc_em, log_re, lbldir, resolution, t_surf=-1, h2o_self=h2o_self, h2o_foreign=h2o_foreign, co2_cont=co2_cont, o3_cont=o3_cont, o2_cont=o2_cont, n2_cont=n2_cont, rayleigh=rayleigh)
