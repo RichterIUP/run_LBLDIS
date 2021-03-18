@@ -211,9 +211,7 @@ def run_lbldis(atmospheric_param, lblrtm, ssp, wn, atm_grid, path_to_run_lblrtm,
         Radiance
     '''
         
-    #global LBLDIR
-
-
+    print(atmospheric_param)
     # Run LBLRTM
     if lblrtm:
         sys.path.append(path_to_run_lblrtm)
@@ -268,7 +266,8 @@ if __name__ == '__main__':
         atmospheric_param = []
         ssp = []
         for i in range(num_ssp):
-            atmospheric_param.append(np.array([float(f.readline()), float(f.readline())]))
+            atmospheric_param.append(float(f.readline()))
+            atmospheric_param.append(float(f.readline()))
         for i in range(num_ssp):
             ssp.append(f.readline().rstrip())
             
@@ -290,7 +289,7 @@ if __name__ == '__main__':
         for i in range(num_emis):
             sfc_em.append([float(f.readline()), float(f.readline())])
         log_re = bool(int(f.readline()))
-        lbldir = f.readline().rstrip()
+        lbldir = "."
         resolution = float(f.readline())
         h2o_self = int(f.readline())
         h2o_foreign = int(f.readline())
