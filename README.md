@@ -1,181 +1,82 @@
-# run_LBLDIS.py
+# run\_LBLDIS.py
 
-run_LBLDIS.py provides an interface to run the radiative transfer models [LBLRTM](http://rtweb.aer.com/lblrtm.html) and [DISORT](http://www.rtatmocn.com/disort/), coupled with [LBLDIS](https://web.archive.org/web/20170508194542/http://www.nssl.noaa.gov/users/dturner/public_html/lbldis/index.html). An older version of DISORT is included in LBLDIS. LBLRTM is used to calculate optical depths of H2O, CH4, CO, CO2, N2O and O3. DISORT calculates the radiative transfer through a plane parallel atmosphere with emitting and scattering objects. All results are in perfect resolution without convolution to a specific instrumental resolution. run_lbldis.py is written in [Python 3](https://www.python.org) and needs the third-party modules NumPy and netCDF4. A python distribution containing a large number of scientific packages is [Anaconda](https://www.anaconda.com/products/individual).
+run\_LBLDIS.py creates input files for LBLRTM and LBLDIS and executes both models. It requires run\_LBLRTM.py, LBLRTM (tested for version 12.8) and LBLDIS (tested for version 3.0)
 
-## 1. Download source codes:
+## Software requirements
 
-- [LBLRTM](http://rtweb.aer.com/lblrtm.html)
-- [DISORT (LBLDIS)](https://web.archive.org/web/20170508194542/http://www.nssl.noaa.gov/users/dturner/public_html/lbldis/index.html)
+run\_LBLDIS.py is written in Python and tested with Python 3.8.5. Necessary libraries: 
 
-Install python libraries using pip
+- Numpy (creating arrays, calculating sinc)
+- Scipy (perform convolution)
+- netCDF4 (read output of LBLDIS)
+- Pandas (read atmospheric profile)
 
-```sh
-> pip install numpy
-> pip install netCDF4
-```
+Python and several scientific libraries are assembled in [Anaconda](https://www.anaconda.com/).
 
-### Additional files
+LBLDIS and LBLRTM must be already compiled on your system to use run\_LBLDIS.py
 
-- [Additional Single scattering databases](https://web.archive.org/web/20170516023452/http://www.nssl.noaa.gov/users/dturner/public_html/lbldis/ADDITIONAL_INFO.html) 
-
-## 2. LBLRTM:
-
-- Extract the source code: 
-```sh
-> tar -xzvf aer_lblrtm_v12.8.tar.gz
-```
-
-LBLRTM requires a spectroscopic database. There are two ways to deal with this:
-
-2.1 Set up the database on your own. To do so, one needs to extract LNFL and the HITRAN database. Next, lnfl needs to be compiled and then the database can be created
-```sh
-> tar -xzvf lnfl_v3.1.tar.gz
-> tar -xzvf aer_v_3.6.tar.gz 
-> make -f make_lnfl linuxGNUsgl
-> cd ../../aer_v_3.6/line_file
-> ../../lnfl/lnfl_v3.1_linux_gnu_sgl
-```
-
-2.2 Use the file TAPE3.10-3500cm-1.first_7_molecules
-
-- Create lblrtm/hitran and place the following files:
-```sh
-> ln -s path/to/TAPE3/file/TAPE3.10-3500.cm-1.first_7_molecules ./tape3.data
-> ln -s ../run_examples/xs_files/xs ./xs
-> ln -s ../run_examples/xs_files/xs ./x
-> ln -s ../run_examples/xs_files/FSCDXS ./FSCDXS
-```
-- Compile LBLRTM
-```sh
-> cd lblrtm/build
-> make -f make_lblrtm linuxGNUsgl
-```
-Maybe there could be some errors. Then you should fix the bugs. First bug seems to be in lblatm.f90, line 7967. Insert a whitespace between STOP and the string.
-	
-- Create the folder lblrtm/bin and link the binary
-```sh
-> mkdir lblrtm/bin
-> ln -s ../lblrtm_v12.8_linux_gnu_sgl ./lblrtm
-```
-
-## 3. LBLDIS:
-
-- Create folder lbldis and copy the archive into it. Extract the archive: 
-```sh
-> mkdir lbldis
-> cd lbldis
-> tar -xvf lbldis.Release_3_0.tar 
-> chmod +w *
-```
-
-- By default, LBLDIS wants to be compiled using IFORT. If you want to use GFORTRAN, then change following lines in Makefile:
-```sh
-- Line 20: Change ifort to gfortran
-- Line 26: Remove -nofor_main
-- Line 120 and 129: Change -r8 to -fdefault-real-8 -fdefault-double-8
-```
-
-- Compile the source
-```sh
-> make
-```
-
-## 3. Input files
-
-- run_lbldis.py reads input files. Atmospheric profiles are in the directory input
-
-### 3.1 model_paths
-
-model_paths contains the paths to LBLRTM and LBLDIS. First line is the path to the root directory of LBLRTM (not to the binary!) and the second line is the path to the binary file of LBLDIS
-
-### 3.2 ./input/atmospheric_param.csv
-
-Contains the cloud optical depth to liquid water, ice water and the effective droplet radii for liquid water and ice water
+## Usage of run\_LBLDIS.py
 
 ```sh
-1.0,1.0,5.0,30.0
-```
-### 3.3 ./input/cloud_grid.csv
-
-Contains the height layer of the cloud in km. If this file is empty, clear sky radiances will be calculated
-
-```sh
-1.0,2.0,3.0
+python3 run_lbldis.py
 ```
 
-### 3.4 ./input/z.csv
+run\_LBLDIS.py searches for input.dat and atm\_grid.csv in your run directory. 
 
-Height layers of the atmosphere in km. Height layers should be defined in a way than the temperature difference between two layers is less then 10 Kelvin!
+## input.dat
 
-### 3.5 ./input/P.csv
+input.dat is an ASCII file containing the parameters and paths which are necessary to use run\_LBLDIS.py. It is explained using the example input.dat.example
 
-Pressure layers of the atmosphere in hPa, corresponding to the height layers.
+- Line  1: Must be integer and gives the number of different single scattering databases. For each single scattering database, input.dat must contain two parameters: Optical depth and effective radius
+- Line  2: Optical depth corresponding to first single scattering database
+- Line  3: Optical depth corresponding to second single scattering database
+- Line  4: Effective radius corresponding to first single scattering database
+- Line  5: Effective radius corresponding to second single scattering database
+- Line  6: First single scattering database. Must be ASCII and readable by LBLDIS
+- Line  7: Second single scattering database. Must be ASCII and readable by LBLDIS
+- Line  8: Lower limit of spectral interval. Must be at least 50cm-1 below lowest wavenumber in microwindow file 
+- Line  9: Upper limit of spectral interval. Must be at least 50cm-1 above highest wavenumber in microwindow file
+- Line 10: Path to run\_LBLRTM.py
+- Line 11: Path to LBLRTM (root directory, binary must be in PATH\_TO\_LBLRTM/bin/)
+- Line 12: Path to LBLDIS (binary)
+- Line 13: Output directory
+- Line 14: Name of file containing microwindows. Must be readable by LBLDIS
+- Line 15: Solar Zenith Angle in degrees. Negative Value deactives solar input
+- Line 16: Number of cloud levels
+- Line 17 - 21: Cloud levels in meter
+- Line 22: Activate (1) or deactivate (0) scattering in LBLDIS
+- Line 23: Path to Kurucz solar input. Must be readable by LBLDIS
+- Line 24: Number of wavenumbers where surface emissivity is defined. LBLDIS interpolates emissivity to radiation grid
+- Line 25: First wavenumber of surface emissivity
+- Line 26: First surface emissivity
+- Line 27: Second wavenumber of surface emissivity
+- Line 28: Second surface emissivity
+- Line 29: Third wavenumber of surface emissivity
+- Line 30: Third surface emissivity
+- Line 31: Effective radii are given in absolute values (0) or as logarithms (1)
+- Line 32: Spectral resolution, needed for convolution
+- Line 33: Activate (1) or deactivate (0) H2O self continuum
+- Line 34: Activate (1) or deactivate (0) H2O foreign continuum
+- Line 35: Activate (1) or deactivate (0) CO2 continuum
+- Line 36: Activate (1) or deactivate (0) O3 continuum
+- Line 37: Activate (1) or deactivate (0) O2 continuum
+- Line 38: Activate (1) or deactivate (0) N2 continuum
+- Line 39: Activate (1) or deactivate (0) Rayleigh continuum
 
-### 3.6 ./input/T.csv
+Line numbers change if differnt numbers of single scattering databases and surface emissivity lines are specified.
 
-Temperature layers of the atmosphere in K, corresponding to the height layers. Height layers should be defined in a way than the temperature difference between two layers is less then 10 Kelvin!
+## atm\_grid.csv
 
-### 3.7 ./input/h2o.csv
+This file is read using Pandas, therefore the order of columns does not matter. The file must contain following columns (case sensitive):
 
-Water Vapour in PPMV.
-
-### 3.8 ./input/ch4.csv
-
-CH4 in PPMV.
-
-### 3.9 ./input/co.csv
-
-CO in PPMV.
-
-### 3.10 ./input/co2.csv
-
-CO2 in PPMV.
-
-### 3.11 ./input/o3.csv
-
-O3 in PPMV
-
-### 3.12 ./input/o2.csv
-
-O2 in PPMV
-
-### 3.13 ./input/n2o.csv
-
-N2O in PPMV
-
-## 4. Run run_lbldis.py
-
-run_lbldis.py needs several command line parameters in following order:
-- Lower wavenumber (mininum: 200 cm-1)
-- Higher wavenumber (maximum: 3000 cm-1)
-- Solar Zenith Angle. If no solar input is wanted, type -1.0
-- H2O self broadened continuum absorption multiplicative factor (0 or 1)
-- H2O foreign broadened continuum absorption multiplicative factor (0 or 1)
-- CO2 continuum absorption multiplicative factor (0 or 1)
-- O3 continuum absorption multiplicative factor (0 or 1)
-- O2 continuum absorption multiplicative factor (0 or 1)
-- N2 continuum absorption multiplicative factor (0 or 1)
-- Rayleigh extinction multiplicative factor (0 or 1)
-- Ice Particle shape (see table below)
-- Scattering in DISORT? (0 or 1)
-
-Spectral radiance interval must be smaller then 2000 cm-1! To run run_lbldis.py, type 
-
-```sh
-python3 run_lbldis.py 500.0 1500.0 -1.0 0 0 0 0 0 0 0 1 0
-```
-
-This performs a run between 500.0cm-1 and 1500.0cm-1 without solar input and without any continuum for spherical is droplets, without scattering
-
-## 5. Ice particle shapes
-
-| Number | Shape |
-|--------|------:|
-| 1 | Sphere |
-| 2 | Aggregate |
-| 3 | Bullet Rosette |
-| 4 | Droxtal |
-| 5 | Hollow Column |
-| 6 | Plate | 
-| 7 | Solid Column |
-| 8 | Spheroid |
+- altitude(km)
+- ch4(ppmv)
+- co(ppmv)
+- co2(ppmv)
+- humidity(%)
+- n2o(ppmv)
+- o2(ppmv)
+- o3(ppmv)
+- pressure(hPa)
+- temperature(K)
+>>>>>>> 12fbf7266637445bcaba9e1cb3432d7f69d66ce2
