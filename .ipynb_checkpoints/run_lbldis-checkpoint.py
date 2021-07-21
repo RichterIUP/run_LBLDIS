@@ -212,6 +212,7 @@ def run_lbldis(atmospheric_param, lblrtm, ssp, wn, atm_grid, path_to_run_lblrtm,
     '''
         
     # Run LBLRTM
+    print("run_LBLRTM")
     if lblrtm:
         sys.path.append(path_to_run_lblrtm)
         import run_LBLRTM
@@ -238,6 +239,7 @@ def run_lbldis(atmospheric_param, lblrtm, ssp, wn, atm_grid, path_to_run_lblrtm,
                                        ch4 = np.array(atm_grid['ch4(ppmv)']), \
                                        n2o = np.array(atm_grid['n2o(ppmv)']), \
                                        o2 = np.array(atm_grid['o2(ppmv)']))
+    print("Exit")
 
     # Write LBLDIS input file
     write_lbldis_input(atmospheric_param, t_surf, ssp, path_wdir, path_windows, sza, cloud_grid, scatter, kurucz, sfc_em, log_re, lbldir)
