@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH -n 1
+#SBATCH -N 1
+#SBATCH -t 4320
+#SBATCH -p all
+#SBATCH --mem=9000
+#SBATCH --open-mode=append
+#SBATCH --mail-type=END
+#SBATCH --mail-user=phi.richter@iup.physik.uni-bremen.de
+
+#export LBL_HOME=/home/phi.richter/radiative_transfer/lblrtm
+module unuse /home/eb/modules/all
+module unuse /home/eb/modules/LAMOS
+module use /home/eb/modules/_legacy/all
+module load Python
+module load netcdf4-python
+
+python3 run_lbldis.py 200.0 800.0 -1.0 0 0 0 0 0 0 0 1 0
