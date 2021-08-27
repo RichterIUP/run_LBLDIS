@@ -300,6 +300,13 @@ if __name__ == '__main__':
         rayleigh = int(f.readline())
 
     atm_grid = pd.read_csv("atm_grid.csv")
+    atm_grid['ch4(ppmv)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
+    atm_grid['co(ppmv)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
+    atm_grid['co2(ppmv)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
+    atm_grid['humidity(%)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
+    atm_grid['n2o(ppmv)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
+    atm_grid['o2(ppmv)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
+    atm_grid['o3(ppmv)'] = np.zeros(atm_grid['ch4(ppmv)'].size)
 
     if not os.path.exists(path_wdir): os.mkdir(path_wdir)
     if not os.path.exists(lbldir): os.mkdir(lbldir)

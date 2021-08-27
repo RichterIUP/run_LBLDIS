@@ -1,0 +1,507 @@
+  READING: parameter file...
+	    500.00	    501.00
+	    501.00	    502.00
+	    502.00	    503.00
+	    503.00	    504.00
+	    504.00	    505.00
+	    505.00	    506.00
+	    506.00	    507.00
+	    507.00	    508.00
+	    508.00	    509.00
+	    509.00	    510.00
+	    510.00	    511.00
+	    511.00	    512.00
+	    512.00	    513.00
+	    513.00	    514.00
+	    514.00	    515.00
+	    515.00	    516.00
+	    516.00	    517.00
+	    517.00	    518.00
+	    518.00	    519.00
+	    519.00	    520.00
+	    520.00	    521.00
+	    521.00	    522.00
+	    522.00	    523.00
+	    523.00	    524.00
+	    524.00	    525.00
+	    525.00	    526.00
+	    526.00	    527.00
+	    527.00	    528.00
+	    528.00	    529.00
+	    529.00	    530.00
+	    530.00	    531.00
+	    531.00	    532.00
+	    532.00	    533.00
+	    533.00	    534.00
+	    534.00	    535.00
+	    535.00	    536.00
+	    536.00	    537.00
+	    537.00	    538.00
+	    538.00	    539.00
+	    539.00	    540.00
+	    540.00	    541.00
+	    541.00	    542.00
+	    542.00	    543.00
+	    543.00	    544.00
+	    544.00	    545.00
+	    545.00	    546.00
+	    546.00	    547.00
+	    547.00	    548.00
+	    548.00	    549.00
+	    549.00	    550.00
+	    550.00	    551.00
+	    551.00	    552.00
+	    552.00	    553.00
+	    553.00	    554.00
+	    554.00	    555.00
+	    555.00	    556.00
+	    556.00	    557.00
+	    557.00	    558.00
+	    558.00	    559.00
+	    559.00	    560.00
+	    560.00	    561.00
+	    561.00	    562.00
+	    562.00	    563.00
+	    563.00	    564.00
+	    564.00	    565.00
+	    565.00	    566.00
+	    566.00	    567.00
+	    567.00	    568.00
+	    568.00	    569.00
+	    569.00	    570.00
+	    570.00	    571.00
+	    571.00	    572.00
+	    572.00	    573.00
+	    573.00	    574.00
+	    574.00	    575.00
+	    575.00	    576.00
+	    576.00	    577.00
+	    577.00	    578.00
+	    578.00	    579.00
+	    579.00	    580.00
+	    580.00	    581.00
+	    581.00	    582.00
+	    582.00	    583.00
+	    583.00	    584.00
+	    584.00	    585.00
+	    585.00	    586.00
+	    586.00	    587.00
+	    587.00	    588.00
+	    588.00	    589.00
+	    589.00	    590.00
+	    590.00	    591.00
+	    591.00	    592.00
+	    592.00	    593.00
+	    593.00	    594.00
+	    594.00	    595.00
+	    595.00	    596.00
+	    596.00	    597.00
+	    597.00	    598.00
+	    598.00	    599.00
+	    599.00	    600.00
+	    600.00	    601.00
+	    601.00	    602.00
+	    602.00	    603.00
+	    603.00	    604.00
+	    604.00	    605.00
+	    605.00	    606.00
+	    606.00	    607.00
+	    607.00	    608.00
+	    608.00	    609.00
+	    609.00	    610.00
+	    610.00	    611.00
+	    611.00	    612.00
+	    612.00	    613.00
+	    613.00	    614.00
+	    614.00	    615.00
+	    615.00	    616.00
+	    616.00	    617.00
+	    617.00	    618.00
+	    618.00	    619.00
+	    619.00	    620.00
+	    620.00	    621.00
+	    621.00	    622.00
+	    622.00	    623.00
+	    623.00	    624.00
+	    624.00	    625.00
+	    625.00	    626.00
+	    626.00	    627.00
+	    627.00	    628.00
+	    628.00	    629.00
+	    629.00	    630.00
+	    630.00	    631.00
+	    631.00	    632.00
+	    632.00	    633.00
+	    633.00	    634.00
+	    634.00	    635.00
+	    635.00	    636.00
+	    636.00	    637.00
+	    637.00	    638.00
+	    638.00	    639.00
+	    639.00	    640.00
+	    640.00	    641.00
+	    641.00	    642.00
+	    642.00	    643.00
+	    643.00	    644.00
+	    644.00	    645.00
+	    645.00	    646.00
+	    646.00	    647.00
+	    647.00	    648.00
+	    648.00	    649.00
+	    649.00	    650.00
+	    650.00	    651.00
+	    651.00	    652.00
+	    652.00	    653.00
+	    653.00	    654.00
+	    654.00	    655.00
+	    655.00	    656.00
+	    656.00	    657.00
+	    657.00	    658.00
+	    658.00	    659.00
+	    659.00	    660.00
+	    660.00	    661.00
+	    661.00	    662.00
+	    662.00	    663.00
+	    663.00	    664.00
+	    664.00	    665.00
+	    665.00	    666.00
+	    666.00	    667.00
+	    667.00	    668.00
+	    668.00	    669.00
+	    669.00	    670.00
+	    670.00	    671.00
+	    671.00	    672.00
+	    672.00	    673.00
+	    673.00	    674.00
+	    674.00	    675.00
+	    675.00	    676.00
+	    676.00	    677.00
+	    677.00	    678.00
+	    678.00	    679.00
+	    679.00	    680.00
+	    680.00	    681.00
+	    681.00	    682.00
+	    682.00	    683.00
+	    683.00	    684.00
+	    684.00	    685.00
+	    685.00	    686.00
+	    686.00	    687.00
+	    687.00	    688.00
+	    688.00	    689.00
+	    689.00	    690.00
+	    690.00	    691.00
+	    691.00	    692.00
+	    692.00	    693.00
+	    693.00	    694.00
+	    694.00	    695.00
+	    695.00	    696.00
+	    696.00	    697.00
+	    697.00	    698.00
+	    698.00	    699.00
+	    699.00	    700.00
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/ssp_database/ssp_db.mie_wat.gamma_sigma_0p100
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/ssp_database/ssp_db.mie_ice.gamma_sigma_0p100
+  READING: tape7......There were 69 levels specified in the TAPE7
+		Note the PWV is 1.095457 cm
+    Cloud 0: DBnum is 0, ht is  0.100 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 1: DBnum is 1, ht is  0.100 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.105884  
+	Number densities for each optical depth are : 1.001e+06  
+    Cloud 2: DBnum is 0, ht is  0.200 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 3: DBnum is 1, ht is  0.200 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.105884  
+	Number densities for each optical depth are : 1.001e+06  
+    Cloud 4: DBnum is 0, ht is  0.300 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 5: DBnum is 1, ht is  0.300 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.105884  
+	Number densities for each optical depth are : 1.001e+06  
+    Cloud 6: DBnum is 0, ht is  0.400 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 7: DBnum is 1, ht is  0.400 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.105884  
+	Number densities for each optical depth are : 1.001e+06  
+    Cloud 8: DBnum is 0, ht is  0.500 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 9: DBnum is 1, ht is  0.500 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.105884  
+	Number densities for each optical depth are : 2.501e+06  
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_068 ......   115512 pts read in (dv = 1.385e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_067 ......    77009 pts read in (dv = 2.078e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_066 ......    51340 pts read in (dv = 3.117e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_065 ......    34227 pts read in (dv = 4.675e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_064 ......    22818 pts read in (dv = 7.012e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_063 ......    22818 pts read in (dv = 7.012e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_062 ......    18255 pts read in (dv = 8.765e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_061 ......    18255 pts read in (dv = 8.765e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_060 ......    14604 pts read in (dv = 1.096e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_059 ......    14604 pts read in (dv = 1.096e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_058 ......    14604 pts read in (dv = 1.096e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_057 ......    12171 pts read in (dv = 1.315e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_056 ......    12171 pts read in (dv = 1.315e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_055 ......    12171 pts read in (dv = 1.315e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_054 ......     9737 pts read in (dv = 1.644e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_053 ......     9737 pts read in (dv = 1.644e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_052 ......     9737 pts read in (dv = 1.644e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_051 ......     9737 pts read in (dv = 1.644e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_050 ......     8114 pts read in (dv = 1.972e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_049 ......     8114 pts read in (dv = 1.972e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_048 ......     8114 pts read in (dv = 1.972e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_047 ......     8114 pts read in (dv = 1.972e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_046 ......     8114 pts read in (dv = 1.972e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_045 ......     6762 pts read in (dv = 2.367e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_044 ......     6762 pts read in (dv = 2.367e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_043 ......     6762 pts read in (dv = 2.367e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_042 ......     6762 pts read in (dv = 2.367e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_041 ......     6762 pts read in (dv = 2.367e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_040 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_039 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_038 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_037 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_036 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_035 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_034 ......     5635 pts read in (dv = 2.840e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_033 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_032 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_031 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_030 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_029 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_028 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_027 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_026 ......     4509 pts read in (dv = 3.550e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_025 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_024 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_023 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_022 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_021 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_020 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_019 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_018 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_017 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_016 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_015 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_014 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_013 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_012 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_011 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_010 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_009 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_008 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_007 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_006 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_005 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_004 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_003 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_002 ......     3757 pts read in (dv = 4.260e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210812_1643022CEST/ODdeflt_001 ......     3757 pts read in (dv = 4.260e-02)
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 0 at wnum 500.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 1 at wnum 501.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 2 at wnum 502.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 3 at wnum 503.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 4 at wnum 504.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 5 at wnum 505.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 6 at wnum 506.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 7 at wnum 507.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 8 at wnum 508.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 9 at wnum 509.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 10 at wnum 510.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 11 at wnum 511.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 12 at wnum 512.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 13 at wnum 513.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 14 at wnum 514.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 15 at wnum 515.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 16 at wnum 516.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 17 at wnum 517.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 18 at wnum 518.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 19 at wnum 519.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 20 at wnum 520.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 21 at wnum 521.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 22 at wnum 522.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 23 at wnum 523.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 24 at wnum 524.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 25 at wnum 525.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 26 at wnum 526.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 27 at wnum 527.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 28 at wnum 528.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 29 at wnum 529.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 30 at wnum 530.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 31 at wnum 531.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 32 at wnum 532.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 33 at wnum 533.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 34 at wnum 534.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 35 at wnum 535.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 36 at wnum 536.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 37 at wnum 537.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 38 at wnum 538.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 39 at wnum 539.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 40 at wnum 540.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 41 at wnum 541.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 42 at wnum 542.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 43 at wnum 543.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 44 at wnum 544.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 45 at wnum 545.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 46 at wnum 546.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 47 at wnum 547.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 48 at wnum 548.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 49 at wnum 549.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 50 at wnum 550.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 51 at wnum 551.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 52 at wnum 552.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 53 at wnum 553.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 54 at wnum 554.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 55 at wnum 555.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 56 at wnum 556.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 57 at wnum 557.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 58 at wnum 558.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 59 at wnum 559.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 60 at wnum 560.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 61 at wnum 561.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 62 at wnum 562.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 63 at wnum 563.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 64 at wnum 564.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 65 at wnum 565.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 66 at wnum 566.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 67 at wnum 567.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 68 at wnum 568.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 69 at wnum 569.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 70 at wnum 570.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 71 at wnum 571.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 72 at wnum 572.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 73 at wnum 573.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 74 at wnum 574.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 75 at wnum 575.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 76 at wnum 576.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 77 at wnum 577.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 78 at wnum 578.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 79 at wnum 579.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 80 at wnum 580.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 81 at wnum 581.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 82 at wnum 582.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 83 at wnum 583.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 84 at wnum 584.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 85 at wnum 585.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 86 at wnum 586.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 87 at wnum 587.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 88 at wnum 588.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 89 at wnum 589.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 90 at wnum 590.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 91 at wnum 591.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 92 at wnum 592.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 93 at wnum 593.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 94 at wnum 594.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 95 at wnum 595.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 96 at wnum 596.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 97 at wnum 597.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 98 at wnum 598.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 99 at wnum 599.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 100 at wnum 600.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 101 at wnum 601.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 102 at wnum 602.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 103 at wnum 603.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 104 at wnum 604.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 105 at wnum 605.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 106 at wnum 606.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 107 at wnum 607.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 108 at wnum 608.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 109 at wnum 609.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 110 at wnum 610.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 111 at wnum 611.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 112 at wnum 612.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 113 at wnum 613.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 114 at wnum 614.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 115 at wnum 615.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 116 at wnum 616.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 117 at wnum 617.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 118 at wnum 618.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 119 at wnum 619.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 120 at wnum 620.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 121 at wnum 621.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 122 at wnum 622.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 123 at wnum 623.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 124 at wnum 624.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 125 at wnum 625.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 126 at wnum 626.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 127 at wnum 627.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 128 at wnum 628.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 129 at wnum 629.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 130 at wnum 630.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 131 at wnum 631.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 132 at wnum 632.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 133 at wnum 633.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 134 at wnum 634.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 135 at wnum 635.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 136 at wnum 636.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 137 at wnum 637.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 138 at wnum 638.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 139 at wnum 639.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 140 at wnum 640.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 141 at wnum 641.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 142 at wnum 642.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 143 at wnum 643.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 144 at wnum 644.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 145 at wnum 645.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 146 at wnum 646.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 147 at wnum 647.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 148 at wnum 648.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 149 at wnum 649.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 150 at wnum 650.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 151 at wnum 651.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 152 at wnum 652.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 153 at wnum 653.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 154 at wnum 654.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 155 at wnum 655.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 156 at wnum 656.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 157 at wnum 657.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 158 at wnum 658.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 159 at wnum 659.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 160 at wnum 660.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 161 at wnum 661.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 162 at wnum 662.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 163 at wnum 663.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 164 at wnum 664.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 165 at wnum 665.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 166 at wnum 666.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 167 at wnum 667.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 168 at wnum 668.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 169 at wnum 669.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 170 at wnum 670.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 171 at wnum 671.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 172 at wnum 672.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 173 at wnum 673.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 174 at wnum 674.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 175 at wnum 675.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 176 at wnum 676.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 177 at wnum 677.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 178 at wnum 678.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 179 at wnum 679.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 180 at wnum 680.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 181 at wnum 681.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 182 at wnum 682.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 183 at wnum 683.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 184 at wnum 684.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 185 at wnum 685.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 186 at wnum 686.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 187 at wnum 687.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 188 at wnum 688.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 189 at wnum 689.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 190 at wnum 690.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 191 at wnum 691.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 192 at wnum 692.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 193 at wnum 693.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 194 at wnum 694.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 195 at wnum 695.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 196 at wnum 696.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 197 at wnum 697.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 198 at wnum 698.500000
+  Warning: LBLRTM spectral range (880.000000 - 1040.000610) does not contain microwindow 199 at wnum 699.500000
+  This LBLDIS run took 0 seconds
+  The DISORT loop took 0 seconds
+DONE.
+

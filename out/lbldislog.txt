@@ -1,0 +1,965 @@
+  READING: parameter file...
+	    400.00	    402.00
+	    402.00	    404.00
+	    404.00	    406.00
+	    406.00	    408.00
+	    408.00	    410.00
+	    410.00	    412.00
+	    412.00	    414.00
+	    414.00	    416.00
+	    416.00	    418.00
+	    418.00	    420.00
+	    420.00	    422.00
+	    422.00	    424.00
+	    424.00	    426.00
+	    426.00	    428.00
+	    428.00	    430.00
+	    430.00	    432.00
+	    432.00	    434.00
+	    434.00	    436.00
+	    436.00	    438.00
+	    438.00	    440.00
+	    440.00	    442.00
+	    442.00	    444.00
+	    444.00	    446.00
+	    446.00	    448.00
+	    448.00	    450.00
+	    450.00	    452.00
+	    452.00	    454.00
+	    454.00	    456.00
+	    456.00	    458.00
+	    458.00	    460.00
+	    460.00	    462.00
+	    462.00	    464.00
+	    464.00	    466.00
+	    466.00	    468.00
+	    468.00	    470.00
+	    470.00	    472.00
+	    472.00	    474.00
+	    474.00	    476.00
+	    476.00	    478.00
+	    478.00	    480.00
+	    480.00	    482.00
+	    482.00	    484.00
+	    484.00	    486.00
+	    486.00	    488.00
+	    488.00	    490.00
+	    490.00	    492.00
+	    492.00	    494.00
+	    494.00	    496.00
+	    496.00	    498.00
+	    498.00	    500.00
+	    500.00	    502.00
+	    502.00	    504.00
+	    504.00	    506.00
+	    506.00	    508.00
+	    508.00	    510.00
+	    510.00	    512.00
+	    512.00	    514.00
+	    514.00	    516.00
+	    516.00	    518.00
+	    518.00	    520.00
+	    520.00	    522.00
+	    522.00	    524.00
+	    524.00	    526.00
+	    526.00	    528.00
+	    528.00	    530.00
+	    530.00	    532.00
+	    532.00	    534.00
+	    534.00	    536.00
+	    536.00	    538.00
+	    538.00	    540.00
+	    540.00	    542.00
+	    542.00	    544.00
+	    544.00	    546.00
+	    546.00	    548.00
+	    548.00	    550.00
+	    550.00	    552.00
+	    552.00	    554.00
+	    554.00	    556.00
+	    556.00	    558.00
+	    558.00	    560.00
+	    560.00	    562.00
+	    562.00	    564.00
+	    564.00	    566.00
+	    566.00	    568.00
+	    568.00	    570.00
+	    570.00	    572.00
+	    572.00	    574.00
+	    574.00	    576.00
+	    576.00	    578.00
+	    578.00	    580.00
+	    580.00	    582.00
+	    582.00	    584.00
+	    584.00	    586.00
+	    586.00	    588.00
+	    588.00	    590.00
+	    590.00	    592.00
+	    592.00	    594.00
+	    594.00	    596.00
+	    596.00	    598.00
+	    598.00	    600.00
+	    600.00	    602.00
+	    602.00	    604.00
+	    604.00	    606.00
+	    606.00	    608.00
+	    608.00	    610.00
+	    610.00	    612.00
+	    612.00	    614.00
+	    614.00	    616.00
+	    616.00	    618.00
+	    618.00	    620.00
+	    620.00	    622.00
+	    622.00	    624.00
+	    624.00	    626.00
+	    626.00	    628.00
+	    628.00	    630.00
+	    630.00	    632.00
+	    632.00	    634.00
+	    634.00	    636.00
+	    636.00	    638.00
+	    638.00	    640.00
+	    640.00	    642.00
+	    642.00	    644.00
+	    644.00	    646.00
+	    646.00	    648.00
+	    648.00	    650.00
+	    650.00	    652.00
+	    652.00	    654.00
+	    654.00	    656.00
+	    656.00	    658.00
+	    658.00	    660.00
+	    660.00	    662.00
+	    662.00	    664.00
+	    664.00	    666.00
+	    666.00	    668.00
+	    668.00	    670.00
+	    670.00	    672.00
+	    672.00	    674.00
+	    674.00	    676.00
+	    676.00	    678.00
+	    678.00	    680.00
+	    680.00	    682.00
+	    682.00	    684.00
+	    684.00	    686.00
+	    686.00	    688.00
+	    688.00	    690.00
+	    690.00	    692.00
+	    692.00	    694.00
+	    694.00	    696.00
+	    696.00	    698.00
+	    698.00	    700.00
+	    700.00	    702.00
+	    702.00	    704.00
+	    704.00	    706.00
+	    706.00	    708.00
+	    708.00	    710.00
+	    710.00	    712.00
+	    712.00	    714.00
+	    714.00	    716.00
+	    716.00	    718.00
+	    718.00	    720.00
+	    720.00	    722.00
+	    722.00	    724.00
+	    724.00	    726.00
+	    726.00	    728.00
+	    728.00	    730.00
+	    730.00	    732.00
+	    732.00	    734.00
+	    734.00	    736.00
+	    736.00	    738.00
+	    738.00	    740.00
+	    740.00	    742.00
+	    742.00	    744.00
+	    744.00	    746.00
+	    746.00	    748.00
+	    748.00	    750.00
+	    750.00	    752.00
+	    752.00	    754.00
+	    754.00	    756.00
+	    756.00	    758.00
+	    758.00	    760.00
+	    760.00	    762.00
+	    762.00	    764.00
+	    764.00	    766.00
+	    766.00	    768.00
+	    768.00	    770.00
+	    770.00	    772.00
+	    772.00	    774.00
+	    774.00	    776.00
+	    776.00	    778.00
+	    778.00	    780.00
+	    780.00	    782.00
+	    782.00	    784.00
+	    784.00	    786.00
+	    786.00	    788.00
+	    788.00	    790.00
+	    790.00	    792.00
+	    792.00	    794.00
+	    794.00	    796.00
+	    796.00	    798.00
+	    798.00	    800.00
+	    800.00	    802.00
+	    802.00	    804.00
+	    804.00	    806.00
+	    806.00	    808.00
+	    808.00	    810.00
+	    810.00	    812.00
+	    812.00	    814.00
+	    814.00	    816.00
+	    816.00	    818.00
+	    818.00	    820.00
+	    820.00	    822.00
+	    822.00	    824.00
+	    824.00	    826.00
+	    826.00	    828.00
+	    828.00	    830.00
+	    830.00	    832.00
+	    832.00	    834.00
+	    834.00	    836.00
+	    836.00	    838.00
+	    838.00	    840.00
+	    840.00	    842.00
+	    842.00	    844.00
+	    844.00	    846.00
+	    846.00	    848.00
+	    848.00	    850.00
+	    850.00	    852.00
+	    852.00	    854.00
+	    854.00	    856.00
+	    856.00	    858.00
+	    858.00	    860.00
+	    860.00	    862.00
+	    862.00	    864.00
+	    864.00	    866.00
+	    866.00	    868.00
+	    868.00	    870.00
+	    870.00	    872.00
+	    872.00	    874.00
+	    874.00	    876.00
+	    876.00	    878.00
+	    878.00	    880.00
+	    880.00	    882.00
+	    882.00	    884.00
+	    884.00	    886.00
+	    886.00	    888.00
+	    888.00	    890.00
+	    890.00	    892.00
+	    892.00	    894.00
+	    894.00	    896.00
+	    896.00	    898.00
+	    898.00	    900.00
+	    900.00	    902.00
+	    902.00	    904.00
+	    904.00	    906.00
+	    906.00	    908.00
+	    908.00	    910.00
+	    910.00	    912.00
+	    912.00	    914.00
+	    914.00	    916.00
+	    916.00	    918.00
+	    918.00	    920.00
+	    920.00	    922.00
+	    922.00	    924.00
+	    924.00	    926.00
+	    926.00	    928.00
+	    928.00	    930.00
+	    930.00	    932.00
+	    932.00	    934.00
+	    934.00	    936.00
+	    936.00	    938.00
+	    938.00	    940.00
+	    940.00	    942.00
+	    942.00	    944.00
+	    944.00	    946.00
+	    946.00	    948.00
+	    948.00	    950.00
+	    950.00	    952.00
+	    952.00	    954.00
+	    954.00	    956.00
+	    956.00	    958.00
+	    958.00	    960.00
+	    960.00	    962.00
+	    962.00	    964.00
+	    964.00	    966.00
+	    966.00	    968.00
+	    968.00	    970.00
+	    970.00	    972.00
+	    972.00	    974.00
+	    974.00	    976.00
+	    976.00	    978.00
+	    978.00	    980.00
+	    980.00	    982.00
+	    982.00	    984.00
+	    984.00	    986.00
+	    986.00	    988.00
+	    988.00	    990.00
+	    990.00	    992.00
+	    992.00	    994.00
+	    994.00	    996.00
+	    996.00	    998.00
+	    998.00	   1000.00
+	   1000.00	   1002.00
+	   1002.00	   1004.00
+	   1004.00	   1006.00
+	   1006.00	   1008.00
+	   1008.00	   1010.00
+	   1010.00	   1012.00
+	   1012.00	   1014.00
+	   1014.00	   1016.00
+	   1016.00	   1018.00
+	   1018.00	   1020.00
+	   1020.00	   1022.00
+	   1022.00	   1024.00
+	   1024.00	   1026.00
+	   1026.00	   1028.00
+	   1028.00	   1030.00
+	   1030.00	   1032.00
+	   1032.00	   1034.00
+	   1034.00	   1036.00
+	   1036.00	   1038.00
+	   1038.00	   1040.00
+	   1040.00	   1042.00
+	   1042.00	   1044.00
+	   1044.00	   1046.00
+	   1046.00	   1048.00
+	   1048.00	   1050.00
+	   1050.00	   1052.00
+	   1052.00	   1054.00
+	   1054.00	   1056.00
+	   1056.00	   1058.00
+	   1058.00	   1060.00
+	   1060.00	   1062.00
+	   1062.00	   1064.00
+	   1064.00	   1066.00
+	   1066.00	   1068.00
+	   1068.00	   1070.00
+	   1070.00	   1072.00
+	   1072.00	   1074.00
+	   1074.00	   1076.00
+	   1076.00	   1078.00
+	   1078.00	   1080.00
+	   1080.00	   1082.00
+	   1082.00	   1084.00
+	   1084.00	   1086.00
+	   1086.00	   1088.00
+	   1088.00	   1090.00
+	   1090.00	   1092.00
+	   1092.00	   1094.00
+	   1094.00	   1096.00
+	   1096.00	   1098.00
+	   1098.00	   1100.00
+	   1100.00	   1102.00
+	   1102.00	   1104.00
+	   1104.00	   1106.00
+	   1106.00	   1108.00
+	   1108.00	   1110.00
+	   1110.00	   1112.00
+	   1112.00	   1114.00
+	   1114.00	   1116.00
+	   1116.00	   1118.00
+	   1118.00	   1120.00
+	   1120.00	   1122.00
+	   1122.00	   1124.00
+	   1124.00	   1126.00
+	   1126.00	   1128.00
+	   1128.00	   1130.00
+	   1130.00	   1132.00
+	   1132.00	   1134.00
+	   1134.00	   1136.00
+	   1136.00	   1138.00
+	   1138.00	   1140.00
+	   1140.00	   1142.00
+	   1142.00	   1144.00
+	   1144.00	   1146.00
+	   1146.00	   1148.00
+	   1148.00	   1150.00
+	   1150.00	   1152.00
+	   1152.00	   1154.00
+	   1154.00	   1156.00
+	   1156.00	   1158.00
+	   1158.00	   1160.00
+	   1160.00	   1162.00
+	   1162.00	   1164.00
+	   1164.00	   1166.00
+	   1166.00	   1168.00
+	   1168.00	   1170.00
+	   1170.00	   1172.00
+	   1172.00	   1174.00
+	   1174.00	   1176.00
+	   1176.00	   1178.00
+	   1178.00	   1180.00
+	   1180.00	   1182.00
+	   1182.00	   1184.00
+	   1184.00	   1186.00
+	   1186.00	   1188.00
+	   1188.00	   1190.00
+	   1190.00	   1192.00
+	   1192.00	   1194.00
+	   1194.00	   1196.00
+	   1196.00	   1198.00
+	   1198.00	   1200.00
+	   1200.00	   1202.00
+	   1202.00	   1204.00
+	   1204.00	   1206.00
+	   1206.00	   1208.00
+	   1208.00	   1210.00
+	   1210.00	   1212.00
+	   1212.00	   1214.00
+	   1214.00	   1216.00
+	   1216.00	   1218.00
+	   1218.00	   1220.00
+	   1220.00	   1222.00
+	   1222.00	   1224.00
+	   1224.00	   1226.00
+	   1226.00	   1228.00
+	   1228.00	   1230.00
+	   1230.00	   1232.00
+	   1232.00	   1234.00
+	   1234.00	   1236.00
+	   1236.00	   1238.00
+	   1238.00	   1240.00
+	   1240.00	   1242.00
+	   1242.00	   1244.00
+	   1244.00	   1246.00
+	   1246.00	   1248.00
+	   1248.00	   1250.00
+	   1250.00	   1252.00
+	   1252.00	   1254.00
+	   1254.00	   1256.00
+	   1256.00	   1258.00
+	   1258.00	   1260.00
+	   1260.00	   1262.00
+	   1262.00	   1264.00
+	   1264.00	   1266.00
+	   1266.00	   1268.00
+	   1268.00	   1270.00
+	   1270.00	   1272.00
+	   1272.00	   1274.00
+	   1274.00	   1276.00
+	   1276.00	   1278.00
+	   1278.00	   1280.00
+	   1280.00	   1282.00
+	   1282.00	   1284.00
+	   1284.00	   1286.00
+	   1286.00	   1288.00
+	   1288.00	   1290.00
+	   1290.00	   1292.00
+	   1292.00	   1294.00
+	   1294.00	   1296.00
+	   1296.00	   1298.00
+	   1298.00	   1300.00
+	   1300.00	   1302.00
+	   1302.00	   1304.00
+	   1304.00	   1306.00
+	   1306.00	   1308.00
+	   1308.00	   1310.00
+	   1310.00	   1312.00
+	   1312.00	   1314.00
+	   1314.00	   1316.00
+	   1316.00	   1318.00
+	   1318.00	   1320.00
+	   1320.00	   1322.00
+	   1322.00	   1324.00
+	   1324.00	   1326.00
+	   1326.00	   1328.00
+	   1328.00	   1330.00
+	   1330.00	   1332.00
+	   1332.00	   1334.00
+	   1334.00	   1336.00
+	   1336.00	   1338.00
+	   1338.00	   1340.00
+	   1340.00	   1342.00
+	   1342.00	   1344.00
+	   1344.00	   1346.00
+	   1346.00	   1348.00
+	   1348.00	   1350.00
+	   1350.00	   1352.00
+	   1352.00	   1354.00
+	   1354.00	   1356.00
+	   1356.00	   1358.00
+	   1358.00	   1360.00
+	   1360.00	   1362.00
+	   1362.00	   1364.00
+	   1364.00	   1366.00
+	   1366.00	   1368.00
+	   1368.00	   1370.00
+	   1370.00	   1372.00
+	   1372.00	   1374.00
+	   1374.00	   1376.00
+	   1376.00	   1378.00
+	   1378.00	   1380.00
+	   1380.00	   1382.00
+	   1382.00	   1384.00
+	   1384.00	   1386.00
+	   1386.00	   1388.00
+	   1388.00	   1390.00
+	   1390.00	   1392.00
+	   1392.00	   1394.00
+	   1394.00	   1396.00
+	   1396.00	   1398.00
+	   1398.00	   1400.00
+	   1400.00	   1402.00
+	   1402.00	   1404.00
+	   1404.00	   1406.00
+	   1406.00	   1408.00
+	   1408.00	   1410.00
+	   1410.00	   1412.00
+	   1412.00	   1414.00
+	   1414.00	   1416.00
+	   1416.00	   1418.00
+	   1418.00	   1420.00
+	   1420.00	   1422.00
+	   1422.00	   1424.00
+	   1424.00	   1426.00
+	   1426.00	   1428.00
+	   1428.00	   1430.00
+	   1430.00	   1432.00
+	   1432.00	   1434.00
+	   1434.00	   1436.00
+	   1436.00	   1438.00
+	   1438.00	   1440.00
+	   1440.00	   1442.00
+	   1442.00	   1444.00
+	   1444.00	   1446.00
+	   1446.00	   1448.00
+	   1448.00	   1450.00
+	   1450.00	   1452.00
+	   1452.00	   1454.00
+	   1454.00	   1456.00
+	   1456.00	   1458.00
+	   1458.00	   1460.00
+	   1460.00	   1462.00
+	   1462.00	   1464.00
+	   1464.00	   1466.00
+	   1466.00	   1468.00
+	   1468.00	   1470.00
+	   1470.00	   1472.00
+	   1472.00	   1474.00
+	   1474.00	   1476.00
+	   1476.00	   1478.00
+	   1478.00	   1480.00
+	   1480.00	   1482.00
+	   1482.00	   1484.00
+	   1484.00	   1486.00
+	   1486.00	   1488.00
+	   1488.00	   1490.00
+	   1490.00	   1492.00
+	   1492.00	   1494.00
+	   1494.00	   1496.00
+	   1496.00	   1498.00
+	   1498.00	   1500.00
+	   1500.00	   1502.00
+	   1502.00	   1504.00
+	   1504.00	   1506.00
+	   1506.00	   1508.00
+	   1508.00	   1510.00
+	   1510.00	   1512.00
+	   1512.00	   1514.00
+	   1514.00	   1516.00
+	   1516.00	   1518.00
+	   1518.00	   1520.00
+	   1520.00	   1522.00
+	   1522.00	   1524.00
+	   1524.00	   1526.00
+	   1526.00	   1528.00
+	   1528.00	   1530.00
+	   1530.00	   1532.00
+	   1532.00	   1534.00
+	   1534.00	   1536.00
+	   1536.00	   1538.00
+	   1538.00	   1540.00
+	   1540.00	   1542.00
+	   1542.00	   1544.00
+	   1544.00	   1546.00
+	   1546.00	   1548.00
+	   1548.00	   1550.00
+	   1550.00	   1552.00
+	   1552.00	   1554.00
+	   1554.00	   1556.00
+	   1556.00	   1558.00
+	   1558.00	   1560.00
+	   1560.00	   1562.00
+	   1562.00	   1564.00
+	   1564.00	   1566.00
+	   1566.00	   1568.00
+	   1568.00	   1570.00
+	   1570.00	   1572.00
+	   1572.00	   1574.00
+	   1574.00	   1576.00
+	   1576.00	   1578.00
+	   1578.00	   1580.00
+	   1580.00	   1582.00
+	   1582.00	   1584.00
+	   1584.00	   1586.00
+	   1586.00	   1588.00
+	   1588.00	   1590.00
+	   1590.00	   1592.00
+	   1592.00	   1594.00
+	   1594.00	   1596.00
+	   1596.00	   1598.00
+	   1598.00	   1600.00
+	   1600.00	   1602.00
+	   1602.00	   1604.00
+	   1604.00	   1606.00
+	   1606.00	   1608.00
+	   1608.00	   1610.00
+	   1610.00	   1612.00
+	   1612.00	   1614.00
+	   1614.00	   1616.00
+	   1616.00	   1618.00
+	   1618.00	   1620.00
+	   1620.00	   1622.00
+	   1622.00	   1624.00
+	   1624.00	   1626.00
+	   1626.00	   1628.00
+	   1628.00	   1630.00
+	   1630.00	   1632.00
+	   1632.00	   1634.00
+	   1634.00	   1636.00
+	   1636.00	   1638.00
+	   1638.00	   1640.00
+	   1640.00	   1642.00
+	   1642.00	   1644.00
+	   1644.00	   1646.00
+	   1646.00	   1648.00
+	   1648.00	   1650.00
+	   1650.00	   1652.00
+	   1652.00	   1654.00
+	   1654.00	   1656.00
+	   1656.00	   1658.00
+	   1658.00	   1660.00
+	   1660.00	   1662.00
+	   1662.00	   1664.00
+	   1664.00	   1666.00
+	   1666.00	   1668.00
+	   1668.00	   1670.00
+	   1670.00	   1672.00
+	   1672.00	   1674.00
+	   1674.00	   1676.00
+	   1676.00	   1678.00
+	   1678.00	   1680.00
+	   1680.00	   1682.00
+	   1682.00	   1684.00
+	   1684.00	   1686.00
+	   1686.00	   1688.00
+	   1688.00	   1690.00
+	   1690.00	   1692.00
+	   1692.00	   1694.00
+	   1694.00	   1696.00
+	   1696.00	   1698.00
+	   1698.00	   1700.00
+	   1700.00	   1702.00
+	   1702.00	   1704.00
+	   1704.00	   1706.00
+	   1706.00	   1708.00
+	   1708.00	   1710.00
+	   1710.00	   1712.00
+	   1712.00	   1714.00
+	   1714.00	   1716.00
+	   1716.00	   1718.00
+	   1718.00	   1720.00
+	   1720.00	   1722.00
+	   1722.00	   1724.00
+	   1724.00	   1726.00
+	   1726.00	   1728.00
+	   1728.00	   1730.00
+	   1730.00	   1732.00
+	   1732.00	   1734.00
+	   1734.00	   1736.00
+	   1736.00	   1738.00
+	   1738.00	   1740.00
+	   1740.00	   1742.00
+	   1742.00	   1744.00
+	   1744.00	   1746.00
+	   1746.00	   1748.00
+	   1748.00	   1750.00
+	   1750.00	   1752.00
+	   1752.00	   1754.00
+	   1754.00	   1756.00
+	   1756.00	   1758.00
+	   1758.00	   1760.00
+	   1760.00	   1762.00
+	   1762.00	   1764.00
+	   1764.00	   1766.00
+	   1766.00	   1768.00
+	   1768.00	   1770.00
+	   1770.00	   1772.00
+	   1772.00	   1774.00
+	   1774.00	   1776.00
+	   1776.00	   1778.00
+	   1778.00	   1780.00
+	   1780.00	   1782.00
+	   1782.00	   1784.00
+	   1784.00	   1786.00
+	   1786.00	   1788.00
+	   1788.00	   1790.00
+	   1790.00	   1792.00
+	   1792.00	   1794.00
+	   1794.00	   1796.00
+	   1796.00	   1798.00
+	   1798.00	   1800.00
+	   1800.00	   1802.00
+	   1802.00	   1804.00
+	   1804.00	   1806.00
+	   1806.00	   1808.00
+	   1808.00	   1810.00
+	   1810.00	   1812.00
+	   1812.00	   1814.00
+	   1814.00	   1816.00
+	   1816.00	   1818.00
+	   1818.00	   1820.00
+	   1820.00	   1822.00
+	   1822.00	   1824.00
+	   1824.00	   1826.00
+	   1826.00	   1828.00
+	   1828.00	   1830.00
+	   1830.00	   1832.00
+	   1832.00	   1834.00
+	   1834.00	   1836.00
+	   1836.00	   1838.00
+	   1838.00	   1840.00
+	   1840.00	   1842.00
+	   1842.00	   1844.00
+	   1844.00	   1846.00
+	   1846.00	   1848.00
+	   1848.00	   1850.00
+	   1850.00	   1852.00
+	   1852.00	   1854.00
+	   1854.00	   1856.00
+	   1856.00	   1858.00
+	   1858.00	   1860.00
+	   1860.00	   1862.00
+	   1862.00	   1864.00
+	   1864.00	   1866.00
+	   1866.00	   1868.00
+	   1868.00	   1870.00
+	   1870.00	   1872.00
+	   1872.00	   1874.00
+	   1874.00	   1876.00
+	   1876.00	   1878.00
+	   1878.00	   1880.00
+	   1880.00	   1882.00
+	   1882.00	   1884.00
+	   1884.00	   1886.00
+	   1886.00	   1888.00
+	   1888.00	   1890.00
+	   1890.00	   1892.00
+	   1892.00	   1894.00
+	   1894.00	   1896.00
+	   1896.00	   1898.00
+	   1898.00	   1900.00
+	   1900.00	   1902.00
+	   1902.00	   1904.00
+	   1904.00	   1906.00
+	   1906.00	   1908.00
+	   1908.00	   1910.00
+	   1910.00	   1912.00
+	   1912.00	   1914.00
+	   1914.00	   1916.00
+	   1916.00	   1918.00
+	   1918.00	   1920.00
+	   1920.00	   1922.00
+	   1922.00	   1924.00
+	   1924.00	   1926.00
+	   1926.00	   1928.00
+	   1928.00	   1930.00
+	   1930.00	   1932.00
+	   1932.00	   1934.00
+	   1934.00	   1936.00
+	   1936.00	   1938.00
+	   1938.00	   1940.00
+	   1940.00	   1942.00
+	   1942.00	   1944.00
+	   1944.00	   1946.00
+	   1946.00	   1948.00
+	   1948.00	   1950.00
+	   1950.00	   1952.00
+	   1952.00	   1954.00
+	   1954.00	   1956.00
+	   1956.00	   1958.00
+	   1958.00	   1960.00
+	   1960.00	   1962.00
+	   1962.00	   1964.00
+	   1964.00	   1966.00
+	   1966.00	   1968.00
+	   1968.00	   1970.00
+	   1970.00	   1972.00
+	   1972.00	   1974.00
+	   1974.00	   1976.00
+	   1976.00	   1978.00
+	   1978.00	   1980.00
+	   1980.00	   1982.00
+	   1982.00	   1984.00
+	   1984.00	   1986.00
+	   1986.00	   1988.00
+	   1988.00	   1990.00
+	   1990.00	   1992.00
+	   1992.00	   1994.00
+	   1994.00	   1996.00
+	   1996.00	   1998.00
+	   1998.00	   2000.00
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/ssp_database/ssp_db.mie_wat.gamma_sigma_0p100
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/ssp_database/ssp_db.mie_ice.gamma_sigma_0p100
+  READING: tape7......There were 69 levels specified in the TAPE7
+		Note the PWV is 0.000000 cm
+    Cloud 0: DBnum is 0, ht is  0.100 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 1: DBnum is 1, ht is  0.100 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 2: DBnum is 0, ht is  0.200 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 3: DBnum is 1, ht is  0.200 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 4: DBnum is 0, ht is  0.300 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 5: DBnum is 1, ht is  0.300 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 6: DBnum is 0, ht is  0.400 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 7: DBnum is 1, ht is  0.400 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 8: DBnum is 0, ht is  0.500 km, r_eff is   7.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+    Cloud 9: DBnum is 1, ht is  0.500 km, r_eff is  21.00 um, 
+	ODs at   900 cm-1 are                       :  0.000000  
+	Number densities for each optical depth are : 0.000e+00  
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_068 ......  1002735 pts read in (dv = 1.496e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_067 ......   668491 pts read in (dv = 2.244e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_066 ......   445661 pts read in (dv = 3.366e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_065 ......   356529 pts read in (dv = 4.207e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_064 ......   237686 pts read in (dv = 6.311e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_063 ......   237686 pts read in (dv = 6.311e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_062 ......   158458 pts read in (dv = 9.466e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_061 ......   158458 pts read in (dv = 9.466e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_060 ......   158458 pts read in (dv = 9.466e-03)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_059 ......   126767 pts read in (dv = 1.183e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_058 ......   126767 pts read in (dv = 1.183e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_057 ......   126767 pts read in (dv = 1.183e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_056 ......   101414 pts read in (dv = 1.479e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_055 ......   101414 pts read in (dv = 1.479e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_054 ......   101414 pts read in (dv = 1.479e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_053 ......   101414 pts read in (dv = 1.479e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_052 ......    81131 pts read in (dv = 1.849e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_051 ......    81131 pts read in (dv = 1.849e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_050 ......    81131 pts read in (dv = 1.849e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_049 ......    81131 pts read in (dv = 1.849e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_048 ......    81131 pts read in (dv = 1.849e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_047 ......    81131 pts read in (dv = 1.849e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_046 ......    64905 pts read in (dv = 2.311e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_045 ......    64905 pts read in (dv = 2.311e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_044 ......    64905 pts read in (dv = 2.311e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_043 ......    64905 pts read in (dv = 2.311e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_042 ......    64905 pts read in (dv = 2.311e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_041 ......    64905 pts read in (dv = 2.311e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_040 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_039 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_038 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_037 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_036 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_035 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_034 ......    51925 pts read in (dv = 2.889e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_033 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_032 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_031 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_030 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_029 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_028 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_027 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_026 ......    43271 pts read in (dv = 3.467e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_025 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_024 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_023 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_022 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_021 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_020 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_019 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_018 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_017 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_016 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_015 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_014 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_013 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_012 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_011 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_010 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_009 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_008 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_007 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_006 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_005 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_004 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_003 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_002 ......    36059 pts read in (dv = 4.160e-02)
+  READING: /home/phi.richter/retrieval_recode/Total_Cloud_Water_retrieval/run_LBLDIS/out/.lblrtm_node52.cluster_20210813_16284343CEST/ODdeflt_001 ......    36059 pts read in (dv = 4.160e-02)
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 0 at wnum 401.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 1 at wnum 403.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 2 at wnum 405.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 3 at wnum 407.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 4 at wnum 409.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 5 at wnum 411.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 6 at wnum 413.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 7 at wnum 415.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 8 at wnum 417.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 9 at wnum 419.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 10 at wnum 421.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 11 at wnum 423.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 12 at wnum 425.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 13 at wnum 427.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 14 at wnum 429.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 15 at wnum 431.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 16 at wnum 433.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 17 at wnum 435.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 18 at wnum 437.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 19 at wnum 439.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 20 at wnum 441.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 21 at wnum 443.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 22 at wnum 445.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 23 at wnum 447.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 24 at wnum 449.000000
+	Using 17 Legendre coefficients
+Working on index   100, wnum   601.000000: percent done is 12.5
+Working on index   200, wnum   801.000000: percent done is 25.0
+Working on index   300, wnum  1001.000000: percent done is 37.5
+Working on index   400, wnum  1201.000000: percent done is 50.0
+Working on index   500, wnum  1401.000000: percent done is 62.5
+Working on index   600, wnum  1601.000000: percent done is 75.0
+Working on index   700, wnum  1801.000000: percent done is 87.5
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 775 at wnum 1951.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 776 at wnum 1953.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 777 at wnum 1955.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 778 at wnum 1957.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 779 at wnum 1959.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 780 at wnum 1961.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 781 at wnum 1963.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 782 at wnum 1965.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 783 at wnum 1967.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 784 at wnum 1969.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 785 at wnum 1971.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 786 at wnum 1973.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 787 at wnum 1975.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 788 at wnum 1977.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 789 at wnum 1979.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 790 at wnum 1981.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 791 at wnum 1983.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 792 at wnum 1985.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 793 at wnum 1987.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 794 at wnum 1989.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 795 at wnum 1991.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 796 at wnum 1993.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 797 at wnum 1995.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 798 at wnum 1997.000000
+  Warning: LBLRTM spectral range (450.000000 - 1950.000610) does not contain microwindow 799 at wnum 1999.000000
+  This LBLDIS run took 19 seconds
+  The DISORT loop took 18 seconds
+DONE.
+
